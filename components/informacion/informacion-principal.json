@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_informacion_informacion_principals",
+  "info": {
+    "name": "informacion principal",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "subtitulo": {
+      "type": "string"
+    }
+  }
+}

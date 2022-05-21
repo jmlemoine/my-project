@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "contact_uses",
+  "info": {
+    "name": "contact us"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "info_principal": {
+      "type": "component",
+      "repeatable": true,
+      "component": "informacion.informacion-principal"
+    }
+  }
+}
